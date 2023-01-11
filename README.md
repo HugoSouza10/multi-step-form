@@ -1,14 +1,12 @@
- 
- 
- https://github.com/HugoSouza10/multi-step-form/issues/1#issue-1528232604
- 
- 
- 
+
  ### ✍️**Descrição:**
 
 O objetivo do projeto é criar um formulário muilt-etapas usando todos os recursos recentes
 da tecnologia react. Nesse projeto optei por colocar um context para armazenar os dados do formulário
 possibilitando acesso rápido e prático a informação de onde estiver.
+
+
+https://github.com/HugoSouza10/multi-step-form/issues/1#issue-1528232604
 
 
 
