@@ -1,15 +1,15 @@
-🚀 # Tecnologias
+ # Tecnologias 🚀
 React.ts
 TypeScript
 Styled-Components
 Router
 
-💻 # Sobre o projeto
+# Sobre o projeto 💻
 O objetivo do projeto é criar um formulário muilt-etapas usando todos os recursos recentes
 da tecnologia react. Nesse projeto optei por colocar um context para armazenar os dados do formulário
 possibilitando acesso rápido e prático a informação de onde estiver.
 
-📥 # Instalação e execução
+# Instalação e execução 📥
 
 Faça um clone desse repositório e acesse o diretório.
 
