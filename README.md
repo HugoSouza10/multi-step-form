@@ -21,22 +21,22 @@ O projeto contém funcionalidade de troca de rota, armazenamento com context al�
 💪 Contribuir
 Faça o fork e clone o projeto a partir do seu usuário.
 
-# Clonando projeto
+ Clonando projeto
 $ git clone https://github.com/SEU-NOME-DE-USUARIO/multi-step-form.git
 
-# Criando um branch
+ Criando um branch
 $ git branch minha-alteracao
 
-# Acessando o novo branch
+Acessando o novo branch
 $ git checkout -b minha-alteracao
 
-# Adicionando os arquivos alterados
+Adicionando os arquivos alterados
 $ git add .
 
-# Criando commit e a mensagem
+Criando commit e a mensagem
 $ git commit -m "Corrigindo...."
 
-# Enviando alterações para o brach
+Enviando alterações para o brach
 $ git push origin minha-alteracao
 
 
