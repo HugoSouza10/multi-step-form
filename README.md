@@ -22,7 +22,7 @@ O projeto contém funcionalidade de troca de rota, armazenamento com context al�
 Faça o fork e clone o projeto a partir do seu usuário.
 
 # Clonando projeto
-$ git clone https://github.com/SEU-NOME-DE-USUARIO/netflix-clone.git
+$ git clone https://github.com/SEU-NOME-DE-USUARIO/multi-step-form.git
 
 # Criando um branch
 $ git branch minha-alteracao
