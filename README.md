@@ -14,6 +14,8 @@ Este projeto destaca-se como um formulário de múltiplas etapas, cuidadosamente
 
 - **Estilização Elegante:** Styled Components proporciona uma estilização modular para uma manutenção simplificada e uma aparência visual agradável.
 
+- **Context API do React:** Utiliza o Context para uma gerência de estado eficiente e compartilhamento de dados entre os componentes.
+
 ## Instalação
 
 Certifique-se de ter o Node.js e npm (ou Yarn) instalados. Clone o repositório e instale as dependências com o seguinte comando:
