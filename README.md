@@ -1,18 +1,22 @@
 # Projeto de Formulário de Múltiplas Etapas em React e TypeScript
 
-Bem-vindo ao meu projeto de formulários de múltiplas etapas! Este projeto é desenvolvido em React, TypeScript e utiliza Styled Components para estilização. A estrutura do projeto permite a criação de formulários passo a passo, proporcionando uma experiência de usuário intuitiva.
+Bem-vindo ao meu projeto de Formulário de Múltiplas Etapas! Desenvolvido em React, TypeScript e estilizado com Styled Components, este projeto foi criado com o objetivo de proporcionar uma experiência de usuário fluida e intuitiva ao preencher informações complexas.
 
-## Funcionalidades Principais
+## Sobre o Projeto
 
-- **Formulário de Múltiplas Etapas:** Divida informações complexas em etapas mais gerenciáveis para melhorar a usabilidade.
+Este projeto destaca-se como um formulário de múltiplas etapas, cuidadosamente projetado para simplificar o processo de coleta de informações. Cada etapa do formulário aborda aspectos específicos, tornando a interação do usuário mais organizada e fácil de seguir.
+
+## Principais Recursos
+
+- **Navegação Passo a Passo:** Facilita a entrada de informações dividindo o processo em etapas mais gerenciáveis.
   
-- **React e TypeScript:** Utilização de React para a construção da interface do usuário e TypeScript para tipagem estática, garantindo código mais robusto.
+- **React e TypeScript:** Utiliza o poder do React para a construção da interface do usuário e TypeScript para garantir uma base de código robusta.
 
-- **Styled Components:** Estilização componentizada para uma fácil manutenção e personalização. Aproveite o poder do CSS-in-JS.
+- **Estilização Elegante:** Styled Components proporciona uma estilização modular para uma manutenção simplificada e uma aparência visual agradável.
 
 ## Instalação
 
-Certifique-se de ter o Node.js e npm (ou Yarn) instalados. Clone o repositório e execute os seguintes comandos:
+Certifique-se de ter o Node.js e npm (ou Yarn) instalados. Clone o repositório e instale as dependências com o seguinte comando:
 
 ```bash
 # Usando npm
