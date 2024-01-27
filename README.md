@@ -1,5 +1,8 @@
 # Projeto de Formulário de Múltiplas Etapas em React e TypeScript
 
+![image](https://github.com/HugoSouza10/multi-step-form/assets/51915862/8f75240f-2616-4070-a800-99bc0abd69e0)
+
+
 Bem-vindo ao meu projeto de Formulário de Múltiplas Etapas! Desenvolvido em React, TypeScript e estilizado com Styled Components, este projeto foi criado com o objetivo de proporcionar uma experiência de usuário fluida e intuitiva ao preencher informações complexas.
 
 ## Sobre o Projeto
