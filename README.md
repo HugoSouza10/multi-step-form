@@ -1,27 +1,32 @@
-# Projeto de Formulário de Múltiplas Etapas em React e TypeScript
+# 🚀 **Formulário de Múltiplas Etapas em React e TypeScript**
 
 ![image](https://github.com/HugoSouza10/multi-step-form/assets/51915862/8f75240f-2616-4070-a800-99bc0abd69e0)
 
+Bem-vindo ao meu **Projeto de Formulário de Múltiplas Etapas**! Desenvolvido com **React**, **TypeScript** e estilizado com **Styled Components**, este projeto foi criado para proporcionar uma **experiência de usuário fluida e intuitiva** ao preencher informações complexas.  
 
-Bem-vindo ao meu projeto de Formulário de Múltiplas Etapas! Desenvolvido em React, TypeScript e estilizado com Styled Components, este projeto foi criado com o objetivo de proporcionar uma experiência de usuário fluida e intuitiva ao preencher informações complexas.
+---
 
-## Sobre o Projeto
+## 📝 **Sobre o Projeto**
 
-Este projeto destaca-se como um formulário de múltiplas etapas, cuidadosamente projetado para simplificar o processo de coleta de informações. Cada etapa do formulário aborda aspectos específicos, tornando a interação do usuário mais organizada e fácil de seguir.
+Este projeto é um **formulário de múltiplas etapas**, projetado para tornar o processo de coleta de informações mais organizado e simplificado. Cada etapa do formulário é focada em um conjunto específico de dados, proporcionando uma interação mais clara e fácil de seguir para o usuário.
 
-## Principais Recursos
+---
 
-- **Navegação Passo a Passo:** Facilita a entrada de informações dividindo o processo em etapas mais gerenciáveis.
-  
-- **React e TypeScript:** Utiliza o poder do React para a construção da interface do usuário e TypeScript para garantir uma base de código robusta.
+## 🔧 **Principais Recursos**
 
-- **Estilização Elegante:** Styled Components proporciona uma estilização modular para uma manutenção simplificada e uma aparência visual agradável.
+- 🧭 **Navegação Passo a Passo:** Divida o processo em etapas menores e gerenciáveis para facilitar a entrada de dados.
 
-- **Context API do React:** Utiliza o Context para uma gerência de estado eficiente e compartilhamento de dados entre os componentes.
+- ⚛️ **React e TypeScript:** Utiliza o **React** para construir a interface e **TypeScript** para garantir uma base de código mais robusta e segura.
 
-## Instalação
+- 🎨 **Estilização Elegante:** Com **Styled Components**, o projeto possui uma estilização modular, facilitando a manutenção e garantindo uma aparência visual agradável e consistente.
 
-Certifique-se de ter o Node.js e npm (ou Yarn) instalados. Clone o repositório e instale as dependências com o seguinte comando:
+- 🌐 **Context API do React:** Gerencia o estado e compartilha dados entre os componentes de maneira eficiente e organizada.
+
+---
+
+## 📥 **Instalação**
+
+Para começar, certifique-se de ter o **Node.js** e o **npm** (ou **Yarn**) instalados. Então, clone o repositório e instale as dependências com o comando:
 
 ```bash
 # Usando npm
